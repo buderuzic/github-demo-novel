@@ -1,9 +1,4 @@
  HEADER
  ----------------------
 
-lalalalala
-
-some additions 
-BR
-
-Author's Introooooooooooo
+Budimir Ruzic 
